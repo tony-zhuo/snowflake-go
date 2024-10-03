@@ -12,7 +12,7 @@ This is a simple implementation of the Snowflake algorithm in Go, which generate
 To use this package, you can run:
 
 ```bash
-go get github.com/yourusername/go-snowflake
+go get github.com/tony-zhuo/snowflake-go
 ```
 
 ## Usage
